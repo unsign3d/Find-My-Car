@@ -26,7 +26,10 @@ to sign your application just put the api key in the manifest,
 
 Known Bugs
 ----------
-* No logo
 * No support for more than one car (asap)
 * No check if gps is turned on (if is off the position is
   inaccurate sometimes)
+
+Special thanks
+---------------
+http://diegopq.me/ for the awesome logo
